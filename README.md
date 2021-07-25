@@ -42,7 +42,7 @@ taf.skeleton
 
 ## 3 Initialize data files
 
-3.1 [File Explorer] copy Tier3eg2Biomass with extaernal data source on BMSY.xlsx and Tier3eg2BiomassSMSY.xlsx into bootstrap/initial/data
+3.1 [File Explorer] copy [Tier3eg2Biomass with extaernal data source on BMSY.xlsx](https://github.com/arni-magnusson/taf-demo/raw/main/bootstrap/initial/data/Tier3eg2Biomass%20with%20extaernal%20data%20source%20on%20BMSY.xlsx) and [Tier3eg2BiomassSMSY.xlsx](https://github.com/arni-magnusson/taf-demo/raw/main/bootstrap/initial/data/Tier3eg2BiomassSMSY.xlsx) into bootstrap/initial/data
 
 3.2 [RStudio] stage the two initial data files, commit, write a commit message saying "Add initial biomass and refpt data files", commit, push
 
