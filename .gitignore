@@ -1,0 +1,8 @@
+bootstrap/data/*
+bootstrap/software/*
+data/*
+model/*
+output/*
+report/*
+.Rproj.user
+*.Rproj
